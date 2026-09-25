@@ -1,15 +1,14 @@
 <p align="center">
-  <img src="./shikamaru.gif" width="100%">
+  <img src="./shikamaru.gif" width="80%">
 </p>
 
 <h1 align="center">👋 Olá! Eu sou Maycon Gabriel</h1>
 
 <p align="center">
 🎓 Estudante de Análise e Desenvolvimento de Sistemas | 💻 Desenvolvedor em formação
+🚀 Aprendendo programação e desenvolvimento de sistemas  
+☕ Café, código e alguns bugs no caminho...
 </p> 
-      🚀 Aprendendo programação e desenvolvimento de sistemas  
-      ☕ Café, código e alguns bugs no caminho...
-
 ---
 
 ## 🧑‍💻 Sobre mim
