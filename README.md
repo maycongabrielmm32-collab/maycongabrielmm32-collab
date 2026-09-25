@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.gifdb.com/shikamaru-nara-naruto-anime-rooftop-chill-gfhkei318uj8mz9j.gif" width="100%">
+  <img src="[https://media.gifdb.com/shikamaru-nara-naruto-anime-rooftop-chill-gfhkei318uj8mz9j.gif](https://tenor.com/pt-BR/view/naruto-naruto-shippuden-asuma-death-shikamaru-shikamaru-nara-gif-1475856230651778763)" width="100%">
 </p>
 
 <h1 align="center">👋 Olá! Eu sou Maycon Gabriel</h1>
