@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./shikamaru.gif" width="80%">
+  <img src="./shikamaru.gif" width="70%">
 </p>
 
 <h1 align="center">👋 Olá! Eu sou Maycon Gabriel</h1>
@@ -9,7 +9,6 @@
 🚀 Aprendendo programação e desenvolvimento de sistemas  
 ☕ Café, código e alguns bugs no caminho...
 </p> 
----
 
 ## 🧑‍💻 Sobre mim
 
