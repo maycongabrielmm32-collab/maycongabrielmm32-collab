@@ -55,9 +55,9 @@ banco de dados e desenvolvimento de sistemas**.
 
 ## 📊 GitHub Stats
 
-![Maycon's GitHub stats](https://github-readme-stats.vercel.app/api?username=maycongabrielmm32-collab&show_icons=true&theme=tokyonight&hide_border=true)
+![Maycon's GitHub stats](https://github-readme-stats1-livid.vercel.app/api?username=maycongabrielmm32-collab&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maycongabrielmm32-collab&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats1-livid.vercel.app/api/top-langs/?username=maycongabrielmm32-collab&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
