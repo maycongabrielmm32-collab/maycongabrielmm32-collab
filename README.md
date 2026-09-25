@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.gifdb.com/shikamaru-nara-naruto-anime-rooftop-chill-gfhkei318uj8mz9j.gif" width="800">
+  <img src="https://media.gifdb.com/shikamaru-nara-naruto-anime-rooftop-chill-gfhkei318uj8mz9j.gif" width="100%">
 </p>
 
 <h1 align="center">👋 Olá! Eu sou Maycon Gabriel</h1>
@@ -7,8 +7,8 @@
 <p align="center">
 🎓 Estudante de Análise e Desenvolvimento de Sistemas | 💻 Desenvolvedor em formação
 </p> 
-🚀 Aprendendo programação e desenvolvimento de sistemas  
-☕ Café, código e alguns bugs no caminho...
+      🚀 Aprendendo programação e desenvolvimento de sistemas  
+      ☕ Café, código e alguns bugs no caminho...
 
 ---
 
